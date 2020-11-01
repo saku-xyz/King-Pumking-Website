@@ -349,12 +349,12 @@ img {
 }
 
 .btn.prolend-primary.style-two {
-    border: 2px solid #0167da;
-    color: #0167da;
+    border: 2px solid #d85308;
+    color: #d85308;
 }
 
 .btn.prolend-primary.style-two::before {
-    background: #0167da;
+    background: #d85308;
 }
 
 .btn.prolend-primary.style-three {
@@ -539,7 +539,7 @@ img {
 }
 
 .overlay-white::after {
-    background-color: rgba(250, 250, 250, 1);
+    background-color:#f5f3ec;
     opacity: 0.94;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
     z-index: -1;
@@ -1303,7 +1303,7 @@ img {
 .product-card {
     position: relative;
     border: 0;
-    border-bottom: 4px solid #F74B54;
+    border-bottom: 4px solid #d95204;
     box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.1);
 }
 
@@ -1943,7 +1943,7 @@ img {
 .contact-box button {
     height: 60px;
     border-radius: 8px;
-    background: #F74B54 !important;
+    background: #ff9f1a !important;
 }
 
 /*Map Area*/
