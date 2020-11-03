@@ -1003,8 +1003,8 @@ img {
 @media (min-width: 992px) {
     .welcome-intro > span,
     .welcome-intro p {
-        font-size: 16px;
-        line-height: 1.6;
+        font-size: 20px;
+        line-height: 1.2;
     }
 }
 
