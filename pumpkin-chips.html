@@ -294,7 +294,7 @@
                        
                                 <br>
                             <div class="action">
-                                <button class="add-to-cart btn btn-default" type="button">add to cart</button>
+                                <button class="add-to-cart btn btn-default" onclick="payment()" type="button">Buy It</button>
                                 <button class="like btn btn-default" type="button"><span class="fa fa-heart"></span></button>
                             </div>
                         </div>
@@ -423,6 +423,11 @@
         <!--====== Footer Area End ======-->
     </div>
 
+    <script>
+        function payment() {
+        window.location.href = "payment.html";
+        }
+    </script>
 
     <!-- ***** All jQuery Plugins ***** -->
 
